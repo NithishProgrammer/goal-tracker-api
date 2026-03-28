@@ -10,7 +10,7 @@ A lightweight, high-performance REST API built with **FastAPI** to manage your p
 
 ## 👤 Author
 
-  * **GitHub:** [@NithishProgrammer](https://www.google.com/search?q=https://github.com/NithishProgrammer)
+  * **GitHub:** [@NithishProgrammer](https://github.com/NithishProgrammer)
   * **Repo Name:** `goal-tracker-api`
 
 -----
